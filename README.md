@@ -1,6 +1,6 @@
 EN / DE
 
-# 1st Nurembug Contest / 1. Nurembug Bettbewerb
+# 1st Nurembug Contest / 1. Nurembug Wettbewerb
 
 The Topic is **domestic furniture**. / Das Thema is **Haus Möbel**.  
 Each participant may bring a blend file and a rendered image file. / Man muss ein Blend Datei und Rendered-Bild mitbringen.
